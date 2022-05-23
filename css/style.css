@@ -11,10 +11,15 @@ p{
   text-align: center;
 }
 
-h2{
+body {
+  text-align:center;
+  }
+
+  h2{
   font-size: 24px;
   text-align: center;
   text-decoration: underline; 
+
 }
 
 h3{
@@ -23,7 +28,24 @@ h3{
   text-decoration: underline; 
 }
 
-li{
+ul{
+  width: 400px;
+  height:200px;
+  margin-right: auto;
+  margin-left: auto;
   background-color:ghostwhite;
   list-style-position: inside;
+  list-style-type: circle;
+  line-height:48px;
+}
+
+ol{
+  width: 400px;
+  height:200px;
+  padding-top: 16px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color:ghostwhite;
+  list-style-position: inside;
+  line-height:48px;
 }
