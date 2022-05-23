@@ -1,15 +1,26 @@
-i {
-  font-size: 48px;
-  color: aqua;
+h1{
+  color: green;
+  font-size: 36px;
+  text-align: center;
 }
 
-i {
-  font-size: 48px;
-  color: blue;
+p{
+  text-align: center;
+  font-weight: bold;
 }
 
-i {
-  font-size: 48px;
-  color: pink;
+h2{
+  font-size: 24px;
+  text-align: center;
+  text-decoration: underline; 
 }
 
+h3{
+  font-size: 24px;
+  text-align: center;
+  text-decoration: underline; 
+}
+
+li{ 
+  background-color:lavender;
+}
