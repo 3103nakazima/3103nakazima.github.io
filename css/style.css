@@ -1,4 +1,7 @@
+@charset "utf-8";
+
 h1{
+  font-family: Verdana, 'Arial Black',メイリオ,sans-serif;
   color: green;
   font-size: 36px;
   text-align: center;
@@ -6,7 +9,6 @@ h1{
 
 p{
   text-align: center;
-  font-weight: bold;
 }
 
 h2{
@@ -21,6 +23,7 @@ h3{
   text-decoration: underline; 
 }
 
-li{ 
-  background-color:lavender;
+li{
+  background-color:ghostwhite;
+  list-style-position: inside;
 }
